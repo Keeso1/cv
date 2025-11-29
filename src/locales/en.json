@@ -1,0 +1,119 @@
+{
+  "name": "Isac Lindh",
+  "tagline": "B.S. in Cognitive Science & UX Designer with a Technical Focus",
+  "personal_info": {
+    "email": "Isac.lindh01@gmail.com",
+    "phone": "076 593 96 79",
+    "address": "Ombergsgatan 4C, 582 48 Linköping"
+  },
+  "work_experience": [
+    {
+      "title": "UX Designer",
+      "company": "Qulinda AB",
+      "period": "Dec 2024 -- Present",
+      "location": "Linköping",
+      "description": [
+        "Designed and prototyped user interfaces for digital solutions with a focus on usability and accessibility.",
+        "Conducted user testing and analyzed feedback to optimize design solutions."
+      ]
+    },
+    {
+      "title": "Webmaster",
+      "company": "KVIT Conference 2024",
+      "period": "Feb 2024 -- Nov 2024",
+      "location": "Linköping",
+      "description": [
+        "Responsible for creating and maintaining the conference website, including both design and functionality.",
+        "Assisted on-site during the conference with tasks ranging from participant registration to technical support."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Fullstack Developer, Vocational Training Program",
+      "institution": "Lexicon AB",
+      "period": "Aug 2025 -- Present",
+      "location": "Linköping",
+      "description": [
+        "Covers both front-end and back-end development with a focus on modern technologies including Node.js, JavaScript, TypeScript, PostgreSQL, React, Next.js, Tailwind CSS, Prisma, and Azure.",
+        "Emphasizes agile workflows and Scrum-based projects."
+      ]
+    },
+    {
+      "title": "Bachelor's Degree in Cognitive Science",
+      "institution": "Linköping University",
+      "period": "Aug 2022 -- Jun 2025",
+      "location": "Linköping",
+      "description": [
+        "Acquired skills in interaction and web programming such as HTML, CSS, JavaScript, and backend development in PHP and SQL.",
+        "Studied language technology, AI, and programming with a focus on machine learning and natural language processing (NLP).",
+        "Completed courses in neuroscience and cognitive psychology to understand brain functions and cognitive processes."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Driv3, audio saturation plugin",
+      "technologies": "C++ and JUCE",
+      "period": "Nov 2025",
+      "description": [
+        "https://github.com/Keeso1/Driv3_saturation_plugin",
+        "Using knowlegde of digital signal processing, C++, the JUCE framework.",
+        "Designed in figma"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "JavaScript & TypeScript (Advanced)",
+      "Next.js (Basic)",
+      "React (Basic)",
+      "Python (Intermediate)",
+      "PHP (Intermediate)",
+      "MySQL (Intermediate)",
+      "PostgreSQL (Intermediate)",
+      "Astro (Intermediate)",
+      "Vite (Intermediate)",
+      "Git (Advanced)",
+      "C++ (Basic)"
+    ],
+    "design_and_methods": [
+      "UX Design (Intermediate)",
+      "User-Centered Design (Intermediate)",
+      "Database Design & Management (Intermediate)",
+      "Wireframing & Prototyping (Intermediate)",
+      "Figma (Advanced)",
+      "REST API integration",
+      "Interaction Design (Intermediate)",
+      "User Testing & Interviews (Intermediate)",
+      "Digital Signal Processing (Intermediate)",
+      "The JUCE framework (basic)"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Swedish",
+      "level": 5
+    },
+    {
+      "name": "English",
+      "level": 5
+    },
+    {
+      "name": "Italian",
+      "level": 1
+    }
+  ],
+  "additional_experience": [
+    {
+      "icon": "faHeadphones",
+      "title": "Music Production",
+      "description": "Experience in creating and producing digital music, which has strengthened my understanding of audio technology, basic signal processing, and creative problem-solving."
+    },
+    {
+      "icon": "faTheaterMasks",
+      "title": "Theatre Production",
+      "description": "Participated in and organized theatre projects, responsible for sound design and creating marketing materials."
+    }
+  ]
+}

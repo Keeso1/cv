@@ -1,0 +1,119 @@
+{
+  "name": "Isac Lindh",
+  "tagline": "B.S. i kognitionsvetenskap & UX-designer med teknisk inriktning",
+  "personal_info": {
+    "email": "Isac.lindh01@gmail.com",
+    "phone": "076 593 96 79",
+    "address": "Ombergsgatan 4C, 582 48 Linköping"
+  },
+  "work_experience": [
+    {
+      "title": "UX Designer",
+      "company": "Qulinda AB",
+      "period": "Dec 2024 -- Nuvarande",
+      "location": "Linköping",
+      "description": [
+        "Designade och prototyperade användargränssnitt för digitala lösningar med fokus på användbarhet och tillgänglighet.",
+        "Genomförde användartester och analyserade feedback för att optimera designlösningar."
+      ]
+    },
+    {
+      "title": "Webbansvarig",
+      "company": "KVIT-konferensen 2024",
+      "period": "Feb 2024 -- Nov 2024",
+      "location": "Linköping",
+      "description": [
+        "Ansvarig för att skapa och underhålla konferensens hemsida, inklusive både design och funktionalitet.",
+        "Assisterade på plats under konferensen med uppgifter som deltagarregistrering och teknisk support."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Fullstackutvecklare, yrkesutbildning",
+      "institution": "Lexicon AB",
+      "period": "Aug 2025 -- Nuvarande",
+      "location": "Linköping",
+      "description": [
+        "Täcker både front-end och back-end-utveckling med fokus på moderna teknologier inklusive Node.js, JavaScript, TypeScript, PostgreSQL, React, Next.js, Tailwind CSS, Prisma och Azure.",
+        "Betonar agila arbetsflöden och Scrum-baserade projekt."
+      ]
+    },
+    {
+      "title": "Kandidatexamen i kognitionsvetenskap",
+      "institution": "Linköpings universitet",
+      "period": "Aug 2022 -- Jun 2025",
+      "location": "Linköping",
+      "description": [
+        "Färdigheter i interaktions- och webbprogrammering som HTML, CSS, JavaScript och backend-utveckling i PHP och SQL.",
+        "Studier i språkteknologi, AI och programmering med fokus på maskininlärning och naturlig språkbehandling (NLP).",
+        "Kurser i neurovetenskap och kognitiv psykologi för att förstå hjärnans funktioner och kognitiva processer."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Driv3, ljudsatureringsplugin",
+      "technologies": "C++ och JUCE",
+      "period": "Nov 2025",
+      "description": [
+        "https://github.com/Keeso1/Driv3_saturation_plugin",
+        "Använder kunskaper om digital signalbehandling, C++ och JUCE-ramverket.",
+        "Designad i Figma"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "JavaScript & TypeScript (Avancerad)",
+      "Next.js (Grundläggande)",
+      "React (Grundläggande)",
+      "Python (Medel)",
+      "PHP (Medel)",
+      "MySQL (Medel)",
+      "PostgreSQL (Medel)",
+      "Astro (Medel)",
+      "Vite (Medel)",
+      "Git (Avancerad)",
+      "C++ (Grundläggande)"
+    ],
+    "design_and_methods": [
+      "UX Design (Medel)",
+      "Användarcentrerad design (Medel)",
+      "Databashantering & -design (Medel)",
+      "Wireframing & Prototyping (Medel)",
+      "Figma (Avancerad)",
+      "REST API-integration",
+      "Interaktionsdesign (Medel)",
+      "Användartester & intervjuer (Medel)",
+      "Digital signalbehandling (Medel)",
+      "JUCE-ramverket (Grundläggande)"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Svenska",
+      "level": 5
+    },
+    {
+      "name": "Engelska",
+      "level": 5
+    },
+    {
+      "name": "Italienska",
+      "level": 1
+    }
+  ],
+  "additional_experience": [
+    {
+      "icon": "faHeadphones",
+      "title": "Musikproduktion",
+      "description": "Erfarenhet av att skapa och producera digital musik, vilket har stärkt min förståelse för ljudteknik, grundläggande signalbehandling och kreativ problemlösning."
+    },
+    {
+      "icon": "faTheaterMasks",
+      "title": "Teaterproduktion",
+      "description": "Deltagit i och organiserat teaterprojekt, ansvarat för ljuddesign och skapande av marknadsföringsmaterial."
+    }
+  ]
+}
